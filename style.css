@@ -1,0 +1,82 @@
+
+.nume{position: relative; 
+    left: 65px; line-height: 0.8;}
+    .culoare{color:#005889}
+
+.Place{position: relative;
+    left: 105px;line-height: 0.1;}
+        
+
+.numar-telefon{  list-style-position: inside;}
+
+.mail{  list-style-position: inside;
+    color: #005889;}
+.obictive{color: #005889;
+    position: relative; 
+    left: 65px;}
+
+.paragraf-obiective{position: relative;
+    left: 110px;line-height: 0.1;}
+
+.experienta{color: #005889;
+    position: relative; 
+    left: 65px;}
+
+.lista-experienta{position: relative;
+    left: 72px; font-weight: 900;}
+
+.paragraf-experienta {position: relative;
+    left: 110px;
+        line-height: 0.4;
+        font-weight: 900; }
+
+.culoare-pozitie{color: #005889;}
+
+.educatie{color: #005889;
+    position: relative; 
+    left: 65px;}
+
+.educatie-prima-lista{position: relative;
+    left: 72px;;: 900;ist-style-position: inside;line-height: 0.4}
+
+.paragraf-educatie{position: relative;
+    left: 110px;font-weight: 600}
+
+.culoare-educatie{color: #005889;}
+
+.pozitie{position: relative;
+    left: 110px;}
+.testeductie{font-weight: 900;}
+
+.Skills{color: #005889;
+    position: relative; 
+    left: 65px;;}
+
+.tabel,th,td{position: relative;
+    left: 110px;;border:1px solid black;}
+
+.lider{color: #005889;
+    position: relative; 
+    left: 65px;}
+
+
+.lista-lider{position: relative;
+    left: 72px; font-weight: 900;}
+
+.paragraf-lider{position: relative;
+    left: 110px;line-height: 0.0;}
+
+.Achievements{color: #005889;
+    position: relative; 
+    left: 65px;}
+
+.lista-Achievements{position: relative;
+    left: 72px;inside;line-height: 1.5}
+
+.clasa-finala{font-weight: 900;}
+
+::marker { 
+    color: #005889;
+  }
+
+   

@@ -1,0 +1,34 @@
+.name-color{color: #005889 ;}
+
+.name-size{
+    font-size: 40px;
+    text-align: center;}
+
+.foto{
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    margin-left: 600px;
+}
+
+.margine{
+    margin-left: 40px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+li::marker{color: #005889;
+}
+
+p{
+    color: #005889;
+}
+
+table, th, td {
+    border:1px solid black;
+  }
+
+table{width:100%}
+
+
+
+   
